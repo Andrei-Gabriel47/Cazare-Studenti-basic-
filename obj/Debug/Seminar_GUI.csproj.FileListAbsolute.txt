@@ -1,0 +1,11 @@
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\bin\Debug\Seminar_GUI.exe.config
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\bin\Debug\Seminar_GUI.exe
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\bin\Debug\Seminar_GUI.pdb
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\obj\Debug\Seminar_GUI.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\obj\Debug\Seminar_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\obj\Debug\Seminar_GUI.Form1.resources
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\obj\Debug\Seminar_GUI.Properties.Resources.resources
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\obj\Debug\Seminar_GUI.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\obj\Debug\Seminar_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\obj\Debug\Seminar_GUI.exe
+C:\Users\Andre\source\repos\Seminar_GUI\Seminar_GUI\obj\Debug\Seminar_GUI.pdb
